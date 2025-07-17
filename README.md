@@ -51,3 +51,10 @@ Próximas funciones:
 ✅ Cálculo de días hábiles
 🏗️ Inclusión de feriados personalizados
 🏗️ Interfaz gráfica (Swing/JavaFX)
+
+## 📄 Licencia
+
+Este script se distribuye con fines educativos y está bajo licencia MIT.
+
+##
+@ srg.info - Proyecto personal para automatización de tareas con Python.
