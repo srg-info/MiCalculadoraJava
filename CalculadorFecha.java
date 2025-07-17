@@ -1,5 +1,5 @@
 /*-- ======================================================
---  Proyecto: Calcuadora
+--  Proyecto: CalcuadorFecha
 --  Autor: [srg-info]
 --  Descripción: Aquí te dejo el Script en Python, sobre una calculadora de fechas
 --  con su licencia MIT. Se trabajo con el scrip por la necesidad de determinar los tiempos entre dos  
