@@ -57,4 +57,4 @@ Próximas funciones:
 Este script se distribuye con fines educativos y está bajo licencia MIT.
 
 ##
-@ srg.info - Proyecto personal para automatización de tareas con Python.
+@ srg.info - Proyecto personal para automatización de tareas con Java.
