@@ -1,9 +1,9 @@
 /*-- ======================================================
 --  Proyecto: Calcuadora
---  Autor: [serg.info]
+--  Autor: [srg-info]
 --  Descripción: Aquí te dejo el Script en Python, sobre una calculadora de fechas
---  Nace por la necesidad de determinar los tiempos entre dos fechas y calcular cuántos 
---  días hábiles tienia para cumplir con tareas / me fue util en gestión de proyectos.
+--  con su licencia MIT. Se trabajo con el scrip por la necesidad de determinar los tiempos entre dos  
+--  fechas y calcular cuántos días hábiles tienia para cumplir con tareas / me fue util en gestión de proyectos.
 -- ======================================================*/
   
 ## 💻 Código base en Java (con cálculo de días hábiles)
