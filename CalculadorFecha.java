@@ -1,6 +1,7 @@
 /*-- ======================================================
 --  Proyecto: CalcuadorFecha
 --  Autor: [srg-info]
+--  Licencia: [MIT]
 --  Descripción: Aquí te dejo el Script en Python, sobre una calculadora de fechas
 --  con su licencia MIT. Se trabajo con el scrip por la necesidad de determinar los tiempos entre dos  
 --  fechas y calcular cuántos días hábiles tienia para cumplir con tareas / me fue util en gestión de proyectos.
